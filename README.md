@@ -1,5 +1,4 @@
 # 🧬 TCGA-BRCA Transcriptomics: An End-to-End Pipeline for Differential Expression & ML Feature Engineering
-# 🧬 TCGA-BRCA Transcriptomic Pipeline
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-Materials-lightgrey?style=for-the-badge)
